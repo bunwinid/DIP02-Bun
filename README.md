@@ -59,14 +59,4 @@ The JavaScript file handles the calculator's logic, including:
 - Clear function
 - Error handling for invalid operations
 
-## Customization
 
-You can easily customize the calculator's appearance by modifying the CSS file. The JavaScript file can be extended to add more complex mathematical operations if needed.
-
-## Browser Compatibility
-
-This calculator should work on all modern web browsers that support HTML5, CSS3, and ECMAScript 5+.
-
-## License
-
-This project is open-source and available under the MIT License.
